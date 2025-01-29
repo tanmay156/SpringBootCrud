@@ -6,7 +6,6 @@ This is a **Spring Boot** application that performs CRUD operations on **User Da
 
 - **Backend:** Spring Boot 3.4.1, Java
 - **Database:** MySQL
-- **API Communication:** RESTful APIs
 - **ORM:** JDBC Template
 
 ## 🔧 How to Run the Spring Boot Backend
